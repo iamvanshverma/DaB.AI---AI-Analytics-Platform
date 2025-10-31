@@ -23,14 +23,14 @@ The DaB.AI platform is composed of two powerful, interconnected AI tools.
 
 | Tool | Primary Use Case | Live Demo | Repository Submodule |
 | :--- | :--- | :---: | :---: |
-| **DaB.AI - DataBuddy AI** | Interactive EDA & Conversational Analysis (CSV Upload) | **[Live Application](https://rhapxiueyuyygwmfwcjqns.streamlit.app/)** | **[Source Code](https://github.com/iamvanshverma/gfest.git)** |
-| **DaB.AI - ReportPilot** | Automated, Scheduled, Multilingual Reporting (Google Sheets) | **[Live Application](https://dab-ai-automailreporting.onrender.com/)** | **[Source Code](https://github.com/iamvanshverma/automation_email3.git)** |
+| **DaB.AI - DataBuddy AI** | Interactive EDA & Conversational Analysis (CSV Upload) | **[Live Application](https://dab-ai-databuddyai.streamlit.app/)** | **[Source Code](https://github.com/iamvanshverma/DaB.AI-DataBuddy_AI.git)** |
+| **DaB.AI - ReportPilot** | Automated, Scheduled, Multilingual Reporting (Google Sheets) | **[Live Application](https://dab-ai-automailreporting.onrender.com/)** | **[Source Code](https://github.com/iamvanshverma/DaB.AI-ReportPilot_AI.git)** |
 
 ### Platform Welcome Screens (Clickable)
 
 | **DaB.AI - DataBuddy AI** | **DaB.AI - ReportPilot** |
 | :---: | :---: |
-| [![DaB.AI - DataBuddy AI Welcome Screen](https://raw.githubusercontent.com/iamvanshverma/gfest/main/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Welcome%20Page.png)](https://rhapxiueyuyygwmfwcjqns.streamlit.app/) | [![DaB.AI - ReportPilot Welcome Screen](https://raw.githubusercontent.com/iamvanshverma/automation_email3/main/DaB.AI%20ReportPilot%20Images/Welcome%20Page.png)](https://dab-ai-automailreporting.onrender.com/) |
+| [![DaB.AI - DataBuddy AI Welcome Screen](https://raw.githubusercontent.com/iamvanshverma/gfest/main/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Welcome%20Page.png)](https://dab-ai-databuddyai.streamlit.app) | [![DaB.AI - ReportPilot Welcome Screen](https://raw.githubusercontent.com/iamvanshverma/automation_email3/main/DaB.AI%20ReportPilot%20Images/Welcome%20Page.png)](https://dab-ai-automailreporting.onrender.com/) |
 
 ---
 
