@@ -212,12 +212,20 @@ This application is designed with user privacy as a critical priority:
 
 ---
 
-## 👨‍💻 Developed By
+## 👨‍💻 Developed By: Vansh Verma
 
 This project was built with dedication and skill by **Vansh Verma**.
 
-| Connect | Links |
+### Platform Access Links
+
+| Category | DaB.AI - DataBuddy AI | DaB.AI - ReportPilot |
+| :--- | :--- | :--- |
+| **Live Application** | [https://dab-ai-databuddyai.streamlit.app] | [https://dab-ai-automailreporting.onrender.com] |
+| **Source Code** | [https://github.com/iamvanshverma/DaB.AI-DataBuddy_AI.git] | [https://github.com/iamvanshverma/DaB.AI-ReportPilot_AI.git] |
+
+### Developer Contact & Professional Links
+
+| Contact Detail | Link |
 | :--- | :--- |
-| **Live Application** | See **Quick Access** table above. |
-| **Source Code** | See **Quick Access** table above. |
-| **Contact** | `vanshverma2015@gmail.com` |
+| **Email** | `vanshverma2015@gmail.com` |
+| **LinkedIn** | [https://www.linkedin.com/in/ivanshverma] |
