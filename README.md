@@ -1,11 +1,15 @@
 # 🚀 DaB.AI - Intelligence Platform: The Unified AI Data Powerhouse
 
 [![Gemini AI](https://img.shields.io/badge/Powered%20By-Gemini%20AI-6D43B7?style=for-the-badge&logo=google&logoColor=4285F4)](https://ai.google.dev/models/gemini)
-[![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Python](https://img.shields.io/badge/Language-Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B)](https://www.python.org/)
-[![Data Analysis](https://img.shields.io/badge/Data%20Analysis-BI%20%26%20Reporting-brightgreen?style=for-the-badge&logo=tableau)](https://github.com/iamvanshverma/automation_email3)
-[![Automation](https://img.shields.io/badge/Automation-SendGrid%20%7C%20Render-46E3B7?style=for-the-badge&logo=mailchimp)](https://render.com/)
+[![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Pandas](https://img.shields.io/badge/Data%20Handling-Pandas-1976D2?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/Numerical%20Ops-NumPy-17A2B8?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Data Analysis](https://img.shields.io/badge/Data%20Analysis-BI%20%26%20Reporting-brightgreen?style=for-the-badge&logo=tableau)](https://github.com/iamvanshverma/automation_email3)
+[![Plotly](https://img.shields.io/badge/Visualization-Plotly-2C3E50?style=for-the-badge&logo=plotly&logoColor=2196F3)](https://plotly.com/)
+[![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-53822C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Email Delivery](https://img.shields.io/badge/Automation-SendGrid-000000?style=for-the-badge&logo=sendgrid)](https://sendgrid.com/)
+[![Deployed On](https://img.shields.io/badge/Deployed%20On-Render%20%7C%20Streamlit-46E3B7?style=for-the-badge&logo=render)](https://render.com/)
 
 > **DaB.AI – Intelligence Platform** is a unified AI-powered data intelligence ecosystem built with Python and Streamlit and powered by Google Gemini. It brings interactive exploratory analysis and automated multilingual reporting together in one place, turning raw data into concise insights, visualizations, and scheduled reports to support fast, data-driven decisions.
 > 
