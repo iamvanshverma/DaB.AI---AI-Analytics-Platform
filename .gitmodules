@@ -7,3 +7,6 @@
 [submodule "ReportPilot_AI"]
 	path = ReportPilot_AI
 	url = https://github.com/iamvanshverma/DaB.AI-ReportPilot_AI.git
+[submodule "DataBuddy_AI"]
+	path = DataBuddy_AI
+	url = https://github.com/iamvanshverma/DaB.AI-DataBuddy_AI.git
