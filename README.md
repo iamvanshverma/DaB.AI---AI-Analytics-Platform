@@ -9,7 +9,7 @@
 
 **DaB.AI - Intelligence Platform** is the ultimate, full-stack solution for data analysis, intelligence generation, and automated business reporting. It seamlessly integrates two cutting-edge AI tools—**DataBuddy AI** (Interactive EDA & Conversational Analysis) and **ReportPilot** (Scheduled, Multilingual Report Delivery).
 
-Built primarily with **Python** and **Streamlit**, and powered by the **Google Gemini API**, this platform is designed for **quick, data-driven decision makers**. It unifies the entire workflow, offering everything from **AI-generated insights** and **statistical assessments** to **automated report delivery** with maximum reliability and zero complexity.
+Built primarily with **Python** and **Streamlit**, and powered by the **Google Gemini API**, this platform unifies the entire workflow. It offers everything from **AI-generated insights** and **statistical assessments** to **automated report delivery** with maximum reliability and zero complexity, ideal for **quick, data-driven decision makers**.
 
 ---
 
@@ -22,7 +22,7 @@ The DaB.AI platform is composed of two powerful tools available as submodules in
 | **DaB.AI - DataBuddy AI** | Interactive EDA & Conversational Analysis (CSV Upload) | **[Live Application](https://rhapxiueyuyygwmfwcjqns.streamlit.app/)** | **[Source Code (Submodule 1)](https://github.com/iamvanshverma/gfest.git)** |
 | **DaB.AI - ReportPilot** | Automated, Scheduled, Multilingual Reporting (Google Sheets) | **[Live Application](https://dab-ai-automailreporting.onrender.com/)** | **[Source Code (Submodule 2)](https://github.com/iamvanshverma/automation_email3.git)** |
 
-### 📸 1. Welcome Screen Previews (Clickable Links)
+### 📸 Welcome Screen Previews (Clickable Links)
 
 Click on the images below to launch the respective live applications instantly:
 
@@ -37,86 +37,81 @@ Click on the images below to launch the respective live applications instantly:
 
 ### I. 🧠 DaB.AI - DataBuddy AI: The Conversational EDA Engine
 
+This module simplifies and accelerates Exploratory Data Analysis (EDA) on uploaded CSV files using the **Gemini API**.
+
 | Feature Category | Detailed Description |
 | :--- | :--- |
-| **AI-Powered Insights (The Chatbot)** | Ask **Natural Language** questions, use **Quick Analysis Presets** (Summary, Stats, Quality), and receive **Suggested Follow-up Questions** for a truly guided experience. |
+| **AI-Powered Insights (The Chatbot)** | Ask **Natural Language** questions, use **Quick Analysis Presets** (Summary, Stats, Quality), and receive **Suggested Follow-up Questions** for guided exploration. |
 | **Advanced Statistical Tools** | Access **Comprehensive Statistics** (Skewness, Kurtosis, CV), detailed **Missing Values** analysis, and visualize **Missing Values Pattern** plots. |
-| **Interactive Visualization** | Use the **Custom Chart Builder** to create granular **Chart Types** (e.g., Correlation Heatmap, Time Series) and view an **Automated Dashboard** of high-level EDA plots upon load. |
-| **Data Exploration** | Use **range sliders** and selection tools in the **Interactive Data Explorer** to **dynamically filter** the dataset and run AI analysis *only* on the filtered subset. |
-| **Reporting & Export** | Generate a **Full Data Report** compiling all AI insights, statistics, and **Actionable Recommendations**. **Granular Export** options are available for data subsets. |
+| **Interactive Exploration** | Use **range sliders** and selection tools in the **Interactive Data Explorer** to **dynamically filter** the dataset and run AI analysis *only* on the filtered subset. |
+| **Visualization & Reporting** | Use the **Custom Chart Builder** for bespoke visualizations and generate a **Full Data Report** compiling all AI insights, statistics, and **Actionable Recommendations**. |
 
-### 🖼️ DataBuddy AI Visuals: Analysis & Visualization (Enhanced Size)
+### 🖼️ DataBuddy AI Visuals: Analysis & Visualization (Full Detail)
 
-#### 1. AI-Powered Chatbot Conversation Output
-*See the natural language input and the AI-generated key insights.*
+#### 1. AI-Powered Chatbot Conversation
+*See the natural language input and the AI's intelligent response.*
 
-| Chatbot Interaction (Input) | AI-Generated Key Insights (Output) |
+| Chatbot Input Example | AI-Generated Key Insights |
 | :---: | :---: |
-| ![Chatbot Input Example](https://raw.githubusercontent.com/iamvanshverma/gfest/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Chatbot%20Image%201.png) | ![AI-Generated Key Insights](https://raw.githubusercontent.com/iamvanshverma/gfest/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Chatbot%20Answer%202%20(Insights).png) |
+| ![Chatbot Input Example](https://raw.githubusercontent.com/iamvanshverma/gfest/main/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Chatbot%20Image%201.png) | ![AI-Generated Key Insights](https://raw.githubusercontent.com/iamvanshverma/gfest/main/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Chatbot%20Answer%202%20(Insights).png) |
 
 ---
 
 #### 2. Advanced Statistical & Data Quality Tools
-*Detailed statistical metrics and missing values analysis visualization.*
+*Detailed statistical metrics, missing values analysis, and the data exploration tab.*
 
-| Comprehensive Statistical Metrics | Missing Values Analysis Plot |
-| :---: | :---: |
-| ![Comprehensive Statistical Metrics](https://raw.githubusercontent.com/iamvanshverma/gfest/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Statistical%20Analysis.png) | ![Missing Values Pattern Plot](https://raw.githubusercontent.com/iamvanshverma/gfest/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Statistical%20Analysis%202.png) |
+| Comprehensive Statistical Metrics | Missing Values Analysis Plot | Interactive Data Explorer (Filtering) |
+| :---: | :---: | :---: |
+| ![Comprehensive Statistical Metrics](https://raw.githubusercontent.com/iamvanshverma/gfest/main/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Statistical%20Analysis.png) | ![Missing Values Pattern Plot](https://raw.githubusercontent.com/iamvanshverma/gfest/main/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Statistical%20Analysis%202.png) | ![Data Explorer tab](https://raw.githubusercontent.com/iamvanshverma/gfest/main/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Data%20Explorer%20tab.png) |
 
 ---
 
-#### 3. Interactive Exploration & Final Reports
-*Dynamic data filtering and the final AI-powered recommendations.*
+#### 3. Visualization and Reporting Output
+*Custom charts and the final recommendations/export options.*
 
-| Interactive Data Explorer (Filtering) | AI-Powered Actionable Recommendations | Custom Visualization Output |
+| Custom Visualization Output | AI-Powered Actionable Recommendations | Summary Report Export Options |
 | :---: | :---: | :---: |
-| ![Data Explorer tab](https://raw.githubusercontent.com/iamvanshverma/gfest/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Data%20Explorer%20tab.png) | ![AI-Powered Actionable Recommendations](https://raw.githubusercontent.com/iamvanshverma/gfest/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Summary%20Report%203%20(Recommendation).png) | ![Customized Visualization](https://raw.githubusercontent.com/iamvanshverma/DaB.AI---AI-Analytics-Platform/main/DaB.AI%20Platform%20Images/DaB.Ai%20Visualization%20OutputExample.png) |
+| ![Customized Visualization](https://raw.githubusercontent.com/iamvanshverma/gfest/main/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Customized%20Visualization.png) | ![AI-Powered Actionable Recommendations](https://raw.githubusercontent.com/iamvanshverma/gfest/main/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Summary%20Report%203%20(Recommendation).png) | ![Summary Report Export Options](https://raw.githubusercontent.com/iamvanshverma/gfest/main/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Summary%20Report%201.png) |
 
 ---
 
 ### II. 📄 DaB.AI - ReportPilot: Automated Reporting & Delivery
 
-This module focuses on secure data ingestion from Google Sheets and the automated distribution of rich, customizable, and multilingual reports via **SendGrid**.
+This module automates the entire reporting workflow: Secure data ingestion from **Google Sheets**, deep AI analysis, and scheduled, multilingual PDF delivery via **SendGrid**.
 
 | Feature Area | Description |
 | :--- | :--- |
 | **Secure Data Ingestion** | Connects securely to Google Sheets (private/public) via **Google OAuth 2.0**. |
 | **Comprehensive AI Analysis** | Generates multi-section reports including **Executive Summary**, **Key Insights**, **Data Quality Assessment**, **Statistical Highlights**, and **Business Recommendations**. |
-| **Multilingual Reporting** | Utilizes Gemini's advanced capabilities to generate the full report in multiple languages, including **Hindi, Chinese, Japanese**, etc. |
-| **Automated Delivery Pipeline** | Configure **scheduled reports** (Daily/Weekly) which auto-refresh data from the source sheet and deliver a professional, consolidated **PDF report** via **SendGrid**. |
+| **Multilingual Reporting** | Utilizes Gemini's advanced capabilities to generate the full report in multiple languages (English, Spanish, French, German, Portuguese, Hindi, Chinese, and Japanese). |
+| **Automated Delivery** | Configure **scheduled reports** (Daily/Weekly) which auto-refresh data from the source sheet and deliver a professional, consolidated **PDF report** via **SendGrid**. |
 
-### 🖼️ ReportPilot Visuals: Analysis & Delivery (Enhanced Size)
+### 🖼️ ReportPilot Visuals: Analysis & Delivery (Full Detail)
 
 #### 1. Data Ingestion and AI Analysis Preview
-*See how data is fetched from the Google Sheet and the structure of the AI-generated report sections.*
+*See data fetching, the comprehensive analysis sections, and the automated charts included in the report.*
 
 | Data Fetched from GSheet | AI Insights Section | Data Quality Assessment |
 | :---: | :---: | :---: |
 | ![Data Fetched from GSheet URL](https://raw.githubusercontent.com/iamvanshverma/automation_email3/main/DaB.AI%20ReportPilot%20Images/Data%20Fetched%20Froom%20GSheet%20URL.png) | ![AI Insights](https://raw.githubusercontent.com/iamvanshverma/automation_email3/main/DaB.AI%20ReportPilot%20Images/AI%20Insights.png) | ![Data Quality Asssesment](https://raw.githubusercontent.com/iamvanshverma/automation_email3/main/DaB.AI%20ReportPilot%20Images/Data%20Quality%20Asssesment.png) |
 
+| Statistical Highlights | Business Recommendations | Auto-Generated Visualizations |
+| :---: | :---: | :---: |
+| ![Statistical Highlights](https://raw.githubusercontent.com/iamvanshverma/automation_email3/main/DaB.AI%20ReportPilot%20Images/Statistical%20Highlights%20.png) | ![Recommendations](https://raw.githubusercontent.com/iamvanshverma/automation_email3/blob/main/DaB.AI%20ReportPilot%20Images/Recommendations.png) | ![Automated Visualization Chart Example](https://raw.githubusercontent.com/iamvanshverma/automation_email3/main/DaB.AI%20ReportPilot%20Images/Automated%20Visualization%20Chart%20Example.png) |
+
 ---
 
 #### 2. Automated Delivery and Scheduling Portals
-*Screenshots of the scheduling setup and the multilingual options.*
+*Screenshots of the scheduling setup, multilingual options, and the final email output.*
 
-| Report Scheduling Portal | Send Report Portal with Language Select |
-| :---: | :---: |
-| ![Daily-Weekly Report Scheduling Portal](https://raw.githubusercontent.com/iamvanshverma/automation_email3/main/DaB.AI%20ReportPilot%20Images/Daily-Weekly%20Report%20Scheduling%20Portal.png) | ![Send Report Directly to Email language Select](https://raw.githubusercontent.com/iamvanshverma/automation_email3/main/DaB.AI%20ReportPilot%20Images/Send%20Report%20Directly%20to%20Email%20language%20Select.png) |
-
----
-
-#### 3. Emailed Report Output (Inbox & Body)
-*The final professional delivery via SendGrid.*
-
-| Email in Inbox | Email Body |
-| :---: | :---: |
-| ![Emailed PDF Report in Inbox](https://raw.githubusercontent.com/iamvanshverma/automation_email3/main/DaB.AI%20ReportPilot%20Images/Emailed%20PDF%20Report%20in%20Inbox.png) | ![EMailed Report Body](https://raw.githubusercontent.com/iamvanshverma/automation_email3/main/DaB.AI%20ReportPilot%20Images/EMailed%20Report%20Body.png) |
+| Report Scheduling Portal | Send Report Portal with Language Select | Email in Inbox |
+| :---: | :---: | :---: |
+| ![Daily-Weekly Report Scheduling Portal](https://raw.githubusercontent.com/iamvanshverma/automation_email3/main/DaB.AI%20ReportPilot%20Images/Daily-Weekly%20Report%20Scheduling%20Portal.png) | ![Send Report Directly to Email language Select](https://raw.githubusercontent.com/iamvanshverma/automation_email3/main/DaB.AI%20ReportPilot%20Images/Send%20Report%20Directly%20to%20Email%20language%20Select.png) | ![Emailed PDF Report in Inbox](https://raw.githubusercontent.com/iamvanshverma/automation_email3/main/DaB.AI%20ReportPilot%20Images/Emailed%20PDF%20Report%20in%20Inbox.png) |
 
 ---
 
-### 🚨 4. Consolidated PDF Report View (Restored & Enhanced Readability)
-
-*The complete PDF report—a consolidated output of all AI analysis, statistics, and charts.*
+### 🚨 3. Consolidated PDF Report View (All Pages Restored for Clarity)
+*The complete, multi-page professional PDF report—the final output containing all analysis and charts.*
 
 | Consolidated PDF Page 1 | Consolidated PDF Page 2 |
 | :---: | :---: |
