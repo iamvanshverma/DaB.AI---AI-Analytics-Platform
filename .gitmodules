@@ -4,3 +4,6 @@
 [submodule "automation_email3"]
 	path = automation_email3
 	url = https://github.com/iamvanshverma/automation_email3.git
+[submodule "ReportPilot_AI"]
+	path = ReportPilot_AI
+	url = https://github.com/iamvanshverma/DaB.AI-ReportPilot_AI.git
