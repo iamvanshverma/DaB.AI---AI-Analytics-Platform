@@ -7,7 +7,9 @@
 [![Automation](https://img.shields.io/badge/Automation-SendGrid%20%7C%20Render-46E3B7?style=for-the-badge&logo=mailchimp)](https://render.com/)
 [![Pandas](https://img.shields.io/badge/Data%20Handling-Pandas-1976D2?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
-> **DaB.AI** is the ultimate, full-stack solution for data analysis, intelligence generation, and automated business reporting. It seamlessly integrates two cutting-edge AI tools: **DataBuddy AI** (Interactive EDA) and **ReportPilot** (Scheduled Reporting), both powered by the **Google Gemini API**.
+> **DaB.AI – Intelligence Platform** is a unified AI-powered data intelligence ecosystem built with Python and Streamlit and powered by Google Gemini. It brings interactive exploratory analysis and automated multilingual reporting together in one place, turning raw data into concise insights, visualizations, and scheduled reports to support fast, data-driven decisions.
+> 
+> Current modules: **DataBuddy AI** for conversational EDA and **ReportPilot** for automated, scheduled reporting from Google Sheets. More tools will be added to the DaB.AI platform over time to expand capabilities across the full data lifecycle.
 
 ---
 
